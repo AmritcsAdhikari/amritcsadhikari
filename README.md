@@ -1,16 +1,17 @@
-### Hi there 👋
+                                                                                  
+![Java-19-comes-with-an-open-source-twist-All-you-need-to-know](https://github.com/AmritcsAdhikari/amritcsadhikari/assets/76586777/974dec34-2289-41cf-969b-97bcc4bacb48)
 
-<!--
-**AmritcsAdhikari/amritcsadhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+👋 Hello there! I'm a passionate Java Software Developer and a DevOps enthusiast on an exciting learning journey.
+Beyond Java, I'm also diving into the fascinating realm of DevOps.🚀
 
-Here are some ideas to get you started:
+## Amrit Adhikari
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                 
+
+
+
+
+
+
+

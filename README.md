@@ -5,8 +5,9 @@
 👋 Hello there! I'm a passionate Java Software Developer and a DevOps enthusiast on an exciting learning journey.
 Beyond Java, I'm also diving into the fascinating realm of DevOps.🚀
 
-## Amrit Adhikari
 
+## Amrit Adhikari 
+Developer At - [THE STACK SCHOOL](https://github.com/thestackschool)
                  
 
 

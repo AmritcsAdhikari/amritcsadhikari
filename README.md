@@ -1,6 +1,6 @@
                                                                                   
 ---
-👋 Hello there! I'm a passionate Java Software Developer and a DevOps enthusiast on an exciting learning journey.
+👋 Hello there! I'm a passionate Java Software Engineer and a DevOps enthusiast on an exciting learning journey.
 Beyond Java, I'm also diving into the fascinating realm of DevOps.🚀
 
 ![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritcsadhikari&show_icons=true&theme=cobalt)

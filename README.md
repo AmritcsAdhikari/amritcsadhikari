@@ -1,7 +1,7 @@
                                                                                   
 ---
 I'm a passionate Java Software Engineer on an exciting learning journey.
-Beyond Java, I'm also diving into the fascinating realm of DevOps.
+Beyond Java, I'm also diving into the fascinating realm of DevOps and AIML.
 
 ```bash
     System.out.println("Hello World 👋");
